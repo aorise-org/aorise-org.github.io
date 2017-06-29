@@ -6,7 +6,7 @@
 
 ## 项目
 - [maven-snapshots](https://github.com/aorise-org/maven-snapshots): 远程仓库地址
-- [android-sample](https://github.com/aorise-org/maven-snapshots): android开发样例工程
+- [android-sample](https://github.com/aorise-org/android-sample): android开发样例工程
 
 ## 联系人
 - Email: jianye.tang@aorise.org
