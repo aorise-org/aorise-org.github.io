@@ -6,7 +6,7 @@
 
 
 ## 项目介绍
-- [takeaway](https://aorise-org.github.io/takeaway/): 长沙分公司外卖列表（持续维护...）
+- [takeaway](https://aorise-org.github.io/takeaway/): 长沙分公司简易外卖点餐系统（持续维护...）
 - [maven-snapshots](https://github.com/aorise-org/maven-snapshots): 公司远程仓库地址
 - [android-sample](https://github.com/aorise-org/android-sample): 公司android开发样例工程
 
