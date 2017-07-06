@@ -4,15 +4,10 @@
 ## 公司介绍
 - [Aorise Open Sources](https://github.com/aorise-org): 公司开源Github地址
 
-
 ## 项目介绍
-
-
-| 项目 | 项目说明 |
-|-------------|-------------|
-| [takeaway](https://aorise-org.github.io/takeaway/) | 长沙分公司简易外卖点餐系统（持续维护...） |
-| [maven-snapshots](https://aorise-org.github.io/maven-snapshots/) | 公司snapshots远程仓库地址 |
-| [android-sample](https://aorise-org.github.io/android-sample/) | 公司android开发样例工程 |
+- [takeaway](https://aorise-org.github.io/takeaway/): 长沙分公司简易外卖点餐系统（持续维护...）
+- [maven-snapshots](https://aorise-org.github.io/maven-snapshots/): 公司snapshots远程仓库地址
+- [android-sample](https://aorise-org.github.io/android-sample/): 公司android开发样例工程
 
 
 ## 联系方式
@@ -21,4 +16,4 @@
 ## 开源协议
 - [Apache2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
-<center>Copyright © 2014 - 2015 aorise.cn All Rights Reserved</center>
+> <center>Copyright © 2014 - 2015 aorise.cn All Rights Reserved</center>
