@@ -14,10 +14,12 @@
 | [android-sample](https://aorise-org.github.io/android-sample/) | 公司android开发样例工程 |
 
 
+## 开源协议
+- [Apache2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
+
+
 ## 联系方式
 - Email: [jianye.tang@aorise.org](mailto:jianye.tang@aoirse.org)
 
-## 开源协议
-- [Apache2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 > <center>Copyright © 2014 - 2015 aorise.cn All Rights Reserved</center>
