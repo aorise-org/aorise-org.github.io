@@ -18,7 +18,7 @@
 - [Apache2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 
-## 联系方式
+## 反馈意见
 - Email: [jianye.tang@aorise.org](mailto:jianye.tang@aoirse.org)
 
 
