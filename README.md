@@ -7,11 +7,12 @@
 
 ## 项目介绍
 
-|                               项目                               |       项目说明                    |
-| ---------------------------------------------------------------- | ----------------------------------------- |
-| [takeaway](https://aorise-org.github.io/takeaway/)               | 长沙分公司简易外卖点餐系统（持续维护...） |
-| [maven-snapshots](https://aorise-org.github.io/maven-snapshots/) | 公司snapshots远程仓库地址                          |
-| [android-sample](https://aorise-org.github.io/android-sample/)   | 公司android开发样例工程                   |
+
+| 项目 | 项目说明 |
+|-------------|-------------|
+| [takeaway](https://aorise-org.github.io/takeaway/) | 长沙分公司简易外卖点餐系统（持续维护...） |
+| [maven-snapshots](https://aorise-org.github.io/maven-snapshots/) | 公司snapshots远程仓库地址 |
+| [android-sample](https://aorise-org.github.io/android-sample/) | 公司android开发样例工程 |
 
 
 ## 联系方式
